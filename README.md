@@ -1,5 +1,7 @@
 <h1 align="center"> callenge amigo secreto, alura latam </h1>
 
+![](https://github.com/nnicochann/amigo-secreto/blob/main/friend-3077835_1280.png)
+
 ## Descripción del Proyecto
 
 Este es un proyecto web sencillo que permite agregar amigos a una lista, visualizar la lista de amigos y realizar un sorteo aleatorio para seleccionar un amigo de la lista. El proyecto está diseñado con HTML, CSS y JavaScript. Es ideal para realizar sorteos entre un grupo de personas de manera sencilla y sin necesidad de backend.
